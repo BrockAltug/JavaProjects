@@ -11,7 +11,7 @@ public class Assignment_01
         int num = 123;
         //create a sum starting with 0
         int sum;
-        //start at 0
+        //start at zero
         sum = 0;
         //num(123) % 10 will give 3 remainder and add 3 to the sum (0) - total is 3
         sum += num % 10;
